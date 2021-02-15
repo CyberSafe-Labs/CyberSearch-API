@@ -19,6 +19,8 @@ You can send a `GET` request with your search query:
 http://localhost:3000/search?searchquery=cats
 ```
 
+For Optimising and Deployment guide please refer to this <a href="https://dev.to/waqasabbasi/optimizing-and-deploying-puppeteer-web-scraper-1nll">link.</a>
+
 Example Response
 ```
 [
