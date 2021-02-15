@@ -35,5 +35,7 @@ Example Response
 ]
 ```
 Deployment Prerequisites:
-Please make sure that all the dependencies are installed on the machine hosting Puppeteer
+
+Please make sure that all the dependencies are installed on the machine hosting Puppeteer.
+<br>
 The list of Dependencies can be found <a href="https://github.com/puppeteer/puppeteer/blob/master/docs/troubleshooting.md#chrome-headless-doesnt-launch-on-unix">here</a>.
